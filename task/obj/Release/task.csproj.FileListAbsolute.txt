@@ -1,0 +1,7 @@
+C:\Users\AysuMemmedova\source\repos\task\task\obj\Release\task.csproj.AssemblyReference.cache
+C:\Users\AysuMemmedova\source\repos\task\task\obj\Release\task.csproj.CoreCompileInputs.cache
+C:\Users\AysuMemmedova\source\repos\task\task\bin\Release\task.exe.config
+C:\Users\AysuMemmedova\source\repos\task\task\bin\Release\task.exe
+C:\Users\AysuMemmedova\source\repos\task\task\bin\Release\task.pdb
+C:\Users\AysuMemmedova\source\repos\task\task\obj\Release\task.exe
+C:\Users\AysuMemmedova\source\repos\task\task\obj\Release\task.pdb
